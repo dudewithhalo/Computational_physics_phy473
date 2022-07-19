@@ -1,7 +1,9 @@
-# Movie Reccomender
-This repo contains codes for the movie recommender system.
+# Academic-Projects
+<br>  This repo contains some of the academic projects in Data Science in the junior year that I did under the guidance of various professors of the college, IITK. 
 <br>
-The dataset was available on Kaggle by the name of tmdb - the movie database. It is a quite an elaborate dataset and pretty much sufficed for my task. <br>
-Algo employed is KMeans and PCA had been used to establish significant attributes to work with. 
+I will keep updating the repo with different problems I do. <br>
+  The datasets are quite from Kaggle and UCI Machine Learning Repository and some from sources which I don't recall xD.
+I have also updated a readme for each folder with brief explanation of problem statement and steps. Hope that comes handy.
 
-seeing ya 
+until then 
+peace out!! 
