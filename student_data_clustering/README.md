@@ -3,6 +3,8 @@
 The data is related to a survey related to courses in ukrainian university. This data set contains a total `5820 evaluation scores` provided by students from. <br>
 There is a total of `28 course specific questions` and additional 5 attributes.
 
+The focus of this project is to classify all the course ratings using different instances into some particular clusters. After this analysis, we need to give overall analysis of the rating survey.
+
 The features of the dataset are as follows:
 - Instr: - Instructor’s identifier: values taken from 1,2,3
 - Class: - Course code (descriptor); values taken from 1-13 Repeat - Number of times the student is taking this course; values taken from 0,1,2,3,... Attendance - Code of the level of attendance; values from 0, 1, 2, 3, 4 Difficulty - Level of difficulty of the course as perceived by the student; values taken from 1,2,3,4,5
