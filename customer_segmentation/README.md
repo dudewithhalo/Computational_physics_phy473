@@ -1,5 +1,8 @@
-**Customer segmentation** <br> 
-The above phrase is quite intriguing one : customer segmentation, here we are required to analyse the various types of customers. 
+```diff
+Customer segmentation
+```
+
+Quite intriguing one : customer segmentation, here we are required to analyse the various types of customers. 
 We are required to analyse their personality efficiently and give information about the best suitable customer.
 Customer segmentation gives us an idea about which customer is most likely to buy some specific product.
 This helps a business to have a good understanding about their customers and helps them to make their product according to the customer’s need.
