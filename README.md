@@ -4,7 +4,7 @@
 I will keep updating the repo with different problems I do.👻 <br>
   <br> Quite of these datasets are from Kaggle and UCI Machine Learning Repository and some from sources which I don't recall xD.
 I have also updated a readme for each folder with brief explanation of problem statement and steps. Hope that comes handy.
-> Codes are mostly in `python` but some could be in  `R` or  `matlab` as well <br> 
+#### Codes are mostly in `python` but some could be in  `R` or  `matlab` as well <br> 
 <hr>
 
 until then <br>
