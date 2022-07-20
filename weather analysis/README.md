@@ -2,6 +2,8 @@
 
 This data comes from a weather station located in San Diego, California. There are various metrics given such as air temperature, air pressure, and relative humidity. Data was collected for a period of three years, `from September 2011
 to September 2014`.
+
+We are using two different algorithm technique : K means and hierarchical agglomerative clustering(HAC)
 <hr> 
 
 ### Dataset Description<br>
