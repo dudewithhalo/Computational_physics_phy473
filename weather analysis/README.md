@@ -1,8 +1,7 @@
 ## Weather Data Analysis 🥵🥶
 
-This data comes from a weather station located in San Diego, California. The weather station is equipped with sensors that capture weather-related 
-measurements such as air temperature, air pressure, and relative humidity. Data was collected for a period of three years, from September 2011
-to September 2014, to ensure that sufficient data for different seasons and weather conditions is captured.
+This data comes from a weather station located in San Diego, California. There are various metrics given such as air temperature, air pressure, and relative humidity. Data was collected for a period of three years, `from September 2011
+to September 2014`.
 <hr> 
 
 ### Dataset Description<br>
