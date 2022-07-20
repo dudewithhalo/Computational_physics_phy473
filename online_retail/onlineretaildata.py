@@ -24,7 +24,7 @@ from scipy.cluster.hierarchy import cut_tree
 
 
 
-df_data_or = pd.read_csv(r'C:\Users\gaura\Desktop\OnlineRetail.csv', sep=",", encoding="ISO-8859-1", header=0)
+df_data_or = pd.read_csv('OnlineRetail.csv', sep=",", encoding="ISO-8859-1", header=0)
 df_data_or.head()
 
 
