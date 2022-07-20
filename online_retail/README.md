@@ -1,4 +1,4 @@
-```Online data analysis and insights for Improved Marketing Strategy```
+##  Online data analysis and insights for Improved Marketing Strategy 
 
   The dataset is from *kaggle* featuring an UK-based registered non-store online retail. Techniques used are domniantly `KMeans` to establish clusters and
   `Assocaite Rule Mining` to deploy more effective consumer marketing .
